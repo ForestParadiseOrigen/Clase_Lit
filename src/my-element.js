@@ -24,7 +24,8 @@ export class MyElement extends LitElement {
                     </div>
                 </div>
                 <a href="dashboard.html">dashboard</a>
-            </div>`
+            </div>
+        `
     }
 }
 

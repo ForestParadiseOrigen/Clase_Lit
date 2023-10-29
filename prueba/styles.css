@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.user_perfil{
+    min-width: 24rem;
+    background-color: red;
+    border-radius: 0px 0px 40px 0px;
+}
+.user_img{
+    background-color: white;
+    border-radius: 50%;
+}
+.user_name{
+    width: 90%;
+    background-color: white;
+    border-radius: 0px 0px 10px 10px;
+    font-weight: 700;
+    color: gray; 
+}
+.text-bold{
+    font-weight: 700;
+}

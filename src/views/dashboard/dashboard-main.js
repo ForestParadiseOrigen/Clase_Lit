@@ -1,5 +1,5 @@
 import { LitElement, html } from "lit-element";
-// import styleScss from './my-elementStyle';
+import styleScss from './my-elementStyle';
 
 export class Main extends LitElement {
 
